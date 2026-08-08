@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Litncraft" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#1E3A8A</item>
+        <item name="colorPrimaryVariant">#1E40AF</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:statusBarColor">#0F172A</item>
+        <item name="android:navigationBarColor">#0F172A</item>
+    </style>
+</resources>
